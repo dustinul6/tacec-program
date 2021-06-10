@@ -4,7 +4,7 @@ certifi==2017.4.17
 chardet==3.0.3
 decorator==4.0.11
 df2gspread==0.2.3
-Django==1.11.1
+Django==2.2.24
 google-api-python-client==1.6.2
 greenlet==0.4.12
 gspread==0.6.2
