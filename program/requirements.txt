@@ -16,7 +16,7 @@ ipython-genutils==0.2.0
 jedi==0.10.2
 msgpack-python==0.4.8
 neovim==0.1.13
-numpy==1.12.1
+numpy==1.22.0
 oauth2client==4.1.0
 packaging==16.8
 pandas==0.20.1
